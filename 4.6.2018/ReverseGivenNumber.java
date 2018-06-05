@@ -1,3 +1,6 @@
+/*This Java program for reversing the user given nuber
+ *Example: If the use gives 1537  as input and the output will be 7351
+ */
 import java.util.*;
 class ReverseGivenNumber 
 {
